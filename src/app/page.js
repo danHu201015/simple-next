@@ -26,7 +26,7 @@ export default function Home() {
       </div>
 
       <div className={styles.center}>
-       <h1>JMH</h1>
+       <h1>JMH-Simple-Next-JS-APP</h1>
 
       </div>
 
